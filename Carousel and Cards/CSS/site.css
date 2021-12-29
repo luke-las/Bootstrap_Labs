@@ -1,0 +1,9 @@
+.cardShadow{
+    box-shadow: 10px 10px 5px grey;
+}
+img{
+    width:100%;
+}
+button{
+    width:25%;
+}
